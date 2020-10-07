@@ -1,0 +1,21 @@
+pip install <packagename>
+
+pip uninstall <packagename>
+
+pip --no-cache-dir install <packagename>
+
+
+
+pip install --upgrade scipy  download updated one and then remove older one 
+
+
+downgrading from 4.0.7 to 4.0.6
+pip show wx python==4.0.6
+ 
+
+pip freeze   > some.txt   all dir and version
+
+pip install -r some.txt  download from the file
+
+
+pip search abc   seach pattern with abc 
